@@ -1,5 +1,5 @@
 # Description
-The **Python Bootcamp** provides an overview of the fundamental concepts necessary to work within the Python programming language. Through a series of annotated, hands-on lessons, students will learn to understand the basic principles of the R language including: 
+The **Python Bootcamp** provides an overview of the fundamental concepts necessary to work within the Python programming language. Through a series of annotated, hands-on lessons, students will learn to understand the basic principles of the Python language including: 
 
 1. installing Python and working with Jupyter
 2. understanding Python objects and data types
