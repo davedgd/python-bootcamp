@@ -17,6 +17,7 @@ No prior programming experience is necessary to benefit from this course.
 
 ### [Unit 1](https://github.com/davedgd/python-bootcamp/blob/master/Unit%201/Python-Bootcamp-Unit1.ipynb)
 - Installing Python
+  - Running Python
 - Installing Jupyter
   - Google Colaboratory
 - Working with Jupyter Notebooks
