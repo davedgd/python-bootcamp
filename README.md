@@ -41,6 +41,7 @@ No prior programming experience is necessary to benefit from this course.
     - Boolean Operators
   - Text Sequence
 - Explicit Type Conversion
+- Date and Time Types
 
 ### [Unit 4](https://github.com/davedgd/python-bootcamp/blob/master/Unit%204/Python-Bootcamp-Unit4.ipynb)
 - Variables
