@@ -31,7 +31,10 @@ No prior programming experience is necessary to benefit from this course.
 - Errors and Warnings
 - Functions
 - Importing Functions
-- Installing and Updating Packages
+  - Installing Packages
+  - Updating Packages
+  - More on Importing: as and from
+
 
 ### [Unit 3](https://github.com/davedgd/python-bootcamp/blob/master/Unit%203/Python-Bootcamp-Unit3.ipynb)
 - Data Types
