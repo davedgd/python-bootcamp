@@ -67,6 +67,7 @@ No prior programming experience is necessary to benefit from this course.
     - Updating, Adding, and Deleting Tuple Elements
     - Joining Tuples
     - Other Tuple Methods
+    - zip
   - Sets
     - Accessing Set Elements
     - Updating Set Elements
