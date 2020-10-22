@@ -55,6 +55,7 @@ No prior programming experience is necessary to benefit from this course.
 - Data Structures
   - Lists
     - Accessing List Elements
+    - Slicing
     - In and Not In
     - Updating List Elements
     - Adding List Elements
