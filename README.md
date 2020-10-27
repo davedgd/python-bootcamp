@@ -62,7 +62,8 @@ No prior programming experience is necessary to benefit from this course.
     - Deleting List Elements
     - Joining Lists
     - Other List Methods
-    - Generating Ranges
+    - dir
+  - Ranges
   - Tuples
     - Accessing Tuple Elements
     - Updating, Adding, and Deleting Tuple Elements
