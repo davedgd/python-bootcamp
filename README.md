@@ -13,6 +13,8 @@ The **Python Bootcamp** provides an overview of the fundamental concepts necessa
 
 No prior programming experience is necessary to benefit from this course.
 
+**Note:** For the R version of this course, visit the [r-bootcamp](https://github.com/davedgd/r-bootcamp).
+
 ## Table of Contents
 
 ### [Unit 1](https://github.com/davedgd/python-bootcamp/blob/master/Unit%201/Python-Bootcamp-Unit1.ipynb)
