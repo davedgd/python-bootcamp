@@ -138,3 +138,9 @@ No prior programming experience is necessary to benefit from this course.
 - Sizing and Styling seaborn Plots
 - Saving Plots
 - Interactive Visualizations
+
+## To-Do (Work-in-Progress)
+- Environments
+- BLAS
+- Add more on pandas
+- More about dict
