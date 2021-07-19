@@ -142,5 +142,5 @@ No prior programming experience is necessary to benefit from this course.
 ## To-Do (Work-in-Progress)
 - Environments
 - BLAS
-- Add more on pandas
-- More about dict
+- Add more on pandas, dict
+- [mamba](https://github.com/mamba-org/mamba)
