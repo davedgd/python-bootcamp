@@ -144,3 +144,4 @@ No prior programming experience is necessary to benefit from this course.
 - BLAS
 - Add more on pandas, dict
 - [mamba](https://github.com/mamba-org/mamba)
+- extend discussion of dicts (and JSON), including Python 3.9 features such as dict [union](https://www.python.org/dev/peps/pep-0584/)
