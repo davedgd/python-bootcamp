@@ -21,7 +21,7 @@ No prior programming experience is necessary to benefit from this course.
 - Installing Python
   - Running Python
 - Installing Jupyter
-  - Google Colaboratory
+  - Google Colaboratory and Deepnote
 - Working with Jupyter Notebooks
   - The Basics
   - Side Notes
