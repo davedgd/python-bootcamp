@@ -145,3 +145,4 @@ No prior programming experience is necessary to benefit from this course.
 - Add more on pandas, dict
 - extend discussion of dicts (and JSON), including Python 3.9 features such as dict [union](https://www.python.org/dev/peps/pep-0584/)
 - Jupyter Lab spellchecker plugin
+- mention [unofficial Windows binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/) in Unit 1
